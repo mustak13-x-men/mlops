@@ -1,0 +1,4 @@
+[core]
+    remote = bunny
+['remote "bunny"']
+    url = ../s3
